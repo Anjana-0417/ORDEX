@@ -1,0 +1,135 @@
+[
+    {
+        "item_name": "12 pcs pencil box",
+        "item_code": "sam01",
+        "quantity": 51,
+        "price": 250.0,
+        "company_name": "Sampath pvt Ltd"
+    },
+    {
+        "item_name": "CR book",
+        "item_code": "sam02",
+        "quantity": 200,
+        "price": 175.0,
+        "company_name": "Sampath pvt Ltd"
+    },
+    {
+        "item_name": "pencil case",
+        "item_code": "sam03",
+        "quantity": 143,
+        "price": 350.0,
+        "company_name": "Sampath pvt Ltd"
+    },
+    {
+        "item_name": "50 pcs pen box",
+        "item_code": "sam04",
+        "quantity": 150,
+        "price": 250.0,
+        "company_name": "Sampath pvt Ltd"
+    },
+    {
+        "item_name": "chocolate biscuits",
+        "item_code": "abc01",
+        "quantity": 150,
+        "price": 90.0,
+        "company_name": "ABC Snacks Ltd"
+    },
+    {
+        "item_name": "lemon puff",
+        "item_code": "abc02",
+        "quantity": 120,
+        "price": 100.0,
+        "company_name": "ABC Snacks Ltd"
+    },
+    {
+        "item_name": "cream cracker",
+        "item_code": "abc03",
+        "quantity": 130,
+        "price": 80.0,
+        "company_name": "ABC Snacks Ltd"
+    },
+    {
+        "item_name": "ginger buscuits",
+        "item_code": "abc04",
+        "quantity": 150,
+        "price": 70.0,
+        "company_name": "ABC Snacks Ltd"
+    },
+    {
+        "item_name": "cream soda",
+        "item_code": "co01",
+        "quantity": 200,
+        "price": 100.0,
+        "company_name": "Kickcola pvt ltd"
+    },
+    {
+        "item_name": "7 up",
+        "item_code": "co02",
+        "quantity": 150,
+        "price": 110.0,
+        "company_name": "Kickcola pvt ltd"
+    },
+    {
+        "item_name": "necto",
+        "item_code": "co03",
+        "quantity": 155,
+        "price": 120.0,
+        "company_name": "Kickcola pvt ltd"
+    },
+    {
+        "item_name": "orange crush",
+        "item_code": "co04",
+        "quantity": 160,
+        "price": 110.0,
+        "company_name": "Kickcola pvt ltd"
+    },
+    {
+        "item_name": "color pencils box",
+        "item_code": "sam05",
+        "quantity": 120,
+        "price": 250.0,
+        "company_name": "Sampath pvt Ltd"
+    },
+    {
+        "item_name": "chilli powder 50g",
+        "item_code": "DS01",
+        "quantity": 100,
+        "price": 75.0,
+        "company_name": "DS Products LTD"
+    },
+    {
+        "item_name": "chilli powder 1kg",
+        "item_code": "DS02",
+        "quantity": 100,
+        "price": 750.0,
+        "company_name": "DS Products LTD"
+    },
+    {
+        "item_name": "turmeric powder 50g",
+        "item_code": "DS03",
+        "quantity": 100,
+        "price": 150.0,
+        "company_name": "DS Products LTD"
+    },
+    {
+        "item_name": "salt 250g",
+        "item_code": "DS04",
+        "quantity": 75,
+        "price": 200.0,
+        "company_name": "DS Products LTD"
+    },
+    {
+        "item_name": "chicken curry powder",
+        "item_code": "ds05",
+        "quantity": 150,
+        "price": 150.0,
+        "company_name": "DS Products LTD"
+    },
+    {
+        "item_name": "20 pcs eraser box",
+        "item_code": "sam06",
+        "quantity": 100,
+        "price": 350.0,
+        "company_name": "Sampath pvt Ltd"
+    }
+]

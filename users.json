@@ -1,0 +1,72 @@
+{
+    "Sampath": {
+        "username": "Sampath",
+        "company_name": "Sampath pvt Ltd",
+        "shop_name": "",
+        "address": "Kany road, Kurunegala.",
+        "phone_number": "0715689753",
+        "email": "sampath089@gmail.com",
+        "password": "sampath#",
+        "state": 1
+    },
+    "Kickcola": {
+        "username": "Kickcola",
+        "company_name": "Kickcola pvt ltd",
+        "shop_name": "",
+        "address": "Ranmuthugala,  Kadawatha",
+        "phone_number": "0778956241",
+        "email": "kickcola@gmail.com",
+        "password": "cola1234",
+        "state": 1
+    },
+    "ABCsnack": {
+        "username": "ABCsnack",
+        "company_name": "ABC Snacks Ltd",
+        "shop_name": "",
+        "address": "Katugasthota Road, Kandy",
+        "phone_number": "0745523543",
+        "email": "abcsnacks@gmail.com",
+        "password": "abc@1234",
+        "state": 1
+    },
+    "dimuthu": {
+        "username": "dimuthu",
+        "company_name": "",
+        "shop_name": "Dimuthu stores",
+        "address": "Main road, Matale",
+        "phone_number": "0762581478",
+        "email": "dimuthu@gmail.com",
+        "password": "dimuthu@",
+        "state": 0
+    },
+    "weerasekara": {
+        "username": "weerasekara",
+        "company_name": "",
+        "shop_name": "Weerasekara Trade Center",
+        "address": "Dehelgamuwa, Ibbagamuwa",
+        "phone_number": "0762045789",
+        "email": "weerasekara@gmail.com",
+        "password": "weere789",
+        "state": 0
+    },
+    "dsproducts": {
+        "username": "dsproducts",
+        "company_name": "DS Products LTD",
+        "shop_name": "",
+        "address": "Main road, Matale",
+        "phone_number": "0785692321",
+        "email": "dsproducts@gmail.com",
+        "password": "ds@12345",
+        "state": 1
+    },
+    "janathasuper": {
+        "username": "janathasuper",
+        "company_name": "JANATHA Super",
+        "shop_name": "",
+        "address": "Colombo Road, Kurunegala.",
+        "phone_number": "0784598526",
+        "email": "janathasuper@gmail.com",
+        "password": "jana#123",
+        "state": 1
+    }
+}

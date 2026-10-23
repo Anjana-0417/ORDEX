@@ -1,0 +1,24 @@
+[
+    {
+        "username": "dimuthu",
+        "shop_name": "dimuthu stores",
+        "item_name": "12 pcs pencil box",
+        "item_code": "sam01",
+        "company_name": "Sampath pvt Ltd",
+        "quantity": 4,
+        "price": 250.0,
+        "total": 1000.0,
+        "order_time": "2025-10-25 10:17:46"
+    },
+    {
+        "username": "weerasekara",
+        "shop_name": "Weerasekara Trade Center",
+        "item_name": "12 pcs pencil box",
+        "item_code": "sam01",
+        "company_name": "Sampath pvt Ltd",
+        "quantity": 12,
+        "price": 250.0,
+        "total": 3000.0,
+        "order_time": "2025-10-25 17:20:10"
+    }
+]
